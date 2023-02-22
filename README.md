@@ -49,6 +49,12 @@
 - [SublimeStar Random](https://random-images.3w3.eu/) - случайные N изображений, можно менять размер показываемых превью.
 - [g9g random](http://g9g.eu/)
 
+### [ImgBB](imgbb.com)
+
+Осторожно, возможно NSFW!
+
+- [ImgBB Random](https://t.me/+y1ewG820G2M4ZjRi) - Канал со случайными изображениями с фотохостинга imgbb.com.
+
 ### [Lightshot](https://prnt.sc) 
 
 - [CASCHBOX.COM](https://caschbox.com/)
